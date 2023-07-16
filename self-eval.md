@@ -2,7 +2,7 @@
 
 - This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
 
-It was satisfying to put a lot of the pieces together. I still got tripped up on a couple of them and took me a bit to figure out how to face that challenge. Overall, I feel confident going into Mod 0 and know I still need to constantly be practicing and reviewing. 
+It was satisfying to put a lot of the pieces together. I still got tripped up on a couple of them and took me a bit to figure out how to face that challenge. The last class problem was challenging and I don't think I did it totally right. That will be good to review the last class challenge. Overall, I feel confident going into Mod 1 and know I still need to constantly be practicing and reviewing. 
 
 - How is your workflow going, in terms of taking breaks, staying focused, etc.?
 
@@ -10,4 +10,4 @@ It's going pretty good. I know when I start to get frustrated or annoyed that's 
 
 - What did you learn from this exercise that you want to remember as you begin Mod 1?
 
-Patience. If I don't know exactly what to do right off the bat, take a deep breath, utilize my notes and google. I know I can figure things out. 
+Patience. If I don't know exactly what to do right off the bat, take a deep breath, utilize my notes and google. I know I can figure things out. If not, its ok to ask for help. 
